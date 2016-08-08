@@ -1,0 +1,27 @@
+_repo: The-Brown-Study_11912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richmond, Grace S. (Grace Smith)
+    alias: Smith, Grace
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '2216'
+    url: http://www.gutenberg.org/2009/agents/2216
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Clergy -- Fiction'
+- GITenberg
+tableOfContents: The Brown Study -- The Time of His Life.
+title: The Brown Study
+url: http://www.gutenberg.org/ebooks/11912
